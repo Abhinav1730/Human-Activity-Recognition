@@ -1,6 +1,6 @@
 # Human Activity & Mood Recognition (HAR) System
 
-A real-time web application that captures webcam video, extracts face/body features, predicts user mood and stress level, stores sessions in MongoDB, provides actionable insights and recommendations, and exposes a REST API for analytics.
+A real time web application that captures webcam video, extracts face/body features, predicts user mood and stress level, stores sessions in MongoDB, provides actionable insights and recommendations, and exposes a REST API for analytics.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
